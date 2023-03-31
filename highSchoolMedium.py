@@ -10,6 +10,7 @@
 # Make ITEMS usable
 # Move player and monster stats to objects
 # Start looking at GUI for game(pygame)
+# Create map Object to track location
 
 #Character Variables
 # / HP/ ATT/ SPD/
